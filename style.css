@@ -45,7 +45,7 @@
 #home{
     display: flex;
     flex-direction: column;
-    height: 840px;
+    height: 820px;
 
 }
 #home::before{
